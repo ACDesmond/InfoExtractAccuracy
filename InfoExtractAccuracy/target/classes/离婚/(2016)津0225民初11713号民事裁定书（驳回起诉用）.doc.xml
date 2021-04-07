@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市蓟县人民法院&#xD;&#xA;民 事 裁 定 书&#xD;&#xA;（2016）津0225民初11713号&#xD;&#xA;原告党国军（120225198001024322），女，1980年1月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村。&#xD;&#xA;被告肖利华(130821197803020619)，男，1978年3月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村，现住址不明。&#xD;&#xA;本院在审理原告党国军与被告肖利华离婚纠纷一案中，因被告肖利华现住址不明，依据原告提供的住址，本院无法送达应诉手续。&#xD;&#xA;本院认为，原告不能提供被告肖利华准确送达地址，属于被告不明确，原告的起诉不符合受理条件。依照《中华人民共和国民事诉讼法》第一百一十九条第（二）项、第一百五十四条第一款第（三）项及《最高人民法院关于适用简易程序审理民事案件的若干规定》第八条第（二）项的规定，裁定如下：&#xD;&#xA;驳回原告党国军的起诉。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提交副本，上诉于天津市第一中级人民法院。&#xD;&#xA;代理审判员    刘   鹏&#xD;&#xA;二〇一六年十一月十八日&#xD;&#xA;      书   记  员      贾恩会    &#xD;" nameCN="全文">
+  <WS value="天津市蓟县人民法院 民事裁定书 （2016）津0225民初11713号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市蓟县人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2016）津0225民初11713号" nameCN="案号" />
+    <LAND value="2016" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告党国军（120225198001024322），女，1980年1月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村。 被告肖利华(130821197803020619)，男，1978年3月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村，现住址不明。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告党国军（120225198001024322），女，1980年1月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村。" nameCN="诉讼参与人">
+      <SSCYRMC value="党国军" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1980年1月2日" nameCN="出生日期">
+        <Year value="1980" nameCN="年" />
+        <Month value="1" nameCN="月" />
+        <Day value="2" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市蓟县上仓镇南闵庄村" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告肖利华(130821197803020619)，男，1978年3月2日出生，汉族，农民，住天津市蓟县上仓镇南闵庄村，现住址不明。" nameCN="诉讼参与人">
+      <SSCYRMC value="肖利华" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1978年3月2日" nameCN="出生日期">
+        <Year value="1978" nameCN="年" />
+        <Month value="3" nameCN="月" />
+        <Day value="2" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="址不明" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院在审理原告党国军与被告肖利华离婚纠纷一案中，因被告肖利华现住址不明，依据原告提供的住址，本院无法送达应诉手续。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为，原告不能提供被告肖利华准确送达地址，属于被告不明确，原告的起诉不符合受理条件。依照《中华人民共和国民事诉讼法》第一百一十九条第（二）项、第一百五十四条第一款第（三）项及《最高人民法院关于适用简易程序审理民事案件的若干规定》第八条第（二）项的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百一十九" nameCN="条目">
+        <KM value="第（二）项" nameCN="款目" />
+      </TM>
+      <TM value="一百五十四" nameCN="条目">
+        <KM value="第一款" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+    <FLFTMC value="最高人民法院关于适用简易程序审理民事案件的若干规定" nameCN="法律法条名称">
+      <TM value="八" nameCN="条目">
+        <KM value="第（二）项" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="驳回原告党国军的起诉。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提交副本，上诉于天津市第一中级人民法院。" nameCN="裁判结果">
+    <JAFS value="驳回起诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="驳回原告党国军的起诉。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提交副本，上诉于天津市第一中级人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提交副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员刘鹏 二〇一六年十一月十八日 书记员贾恩会 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="贾恩会" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="刘鹏" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2016年11月18日" nameCN="裁判时间">
+      <Year value="2016" nameCN="结案年度" />
+      <JANYR value="2016年11月18日" nameCN="结案年月日" />
+      <JANY value="2016-11" nameCN="结案年月" />
+      <Month value="11" nameCN="月" />
+      <Day value="18" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

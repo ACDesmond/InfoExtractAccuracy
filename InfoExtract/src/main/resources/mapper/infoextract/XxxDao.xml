@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.nju.infoextract.dao.XxxDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.nju.infoextract.entity.XxxEntity" id="xxxMap">
+        <result property="id" column="id"/>
+        <result property="xxxmc" column="xxxmc"/>
+        <result property="xxxsxjc" column="xxxsxjc"/>
+        <result property="ssaygs" column="ssaygs"/>
+        <result property="sfyycqzcx" column="sfyycqzcx"/>
+        <result property="zcxscz" column="zcxscz" />
+        <result property="wjm" column="wjm"/>
+        <result property="ydm" column="ydm"/>
+        <result property="zjm" column="zjm"/>
+    </resultMap>
+
+
+</mapper>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市河东区人民法院&#xA;民事裁定书&#xA;&#xA;(2004)东民初字第2467号&#xA;原告王德慧&#xA;被告姜世田&#xA; 王德慧与姜世田离婚纠纷一案，本院在审理本案过程中，原告于2004年9月14日申请撤回起诉。&#xA;    本院经审查认为：原告的撤诉申请符合法律规定，依照《中华人民共和国民事诉讼法》第一百三十条第一款、第一百四十条第二款之规定，裁定如下：&#xA;    一、准许原告王德慧撤回起诉。&#xA;    二、案件受理费250元，原告承担125元。    &#xA;&#xA;                                   代理审判员    董 鸣&#xA;&#xA;二○○四年九月十四日      &#xA;&#xA;书  记  员  魏晓飞&#xA;&#xA;注：本案无开庭笔录&#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市河东区人民法院 民事裁定书 (2004)东民初字第2467号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市河东区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2004)东民初字第2467号" nameCN="案号" />
+    <LAND value="2004" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="原告王德慧被告姜世田王德慧与姜世田离婚纠纷一案，本院在审理本案过程中，原告于2004年9月14日申请撤回起诉。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+    <SQCSRQ value="2004年9月14日" nameCN="申请撤诉日期" />
+  </SSJL>
+  <CPFXGC value="本院经审查认为：原告的撤诉申请符合法律规定，依照《中华人民共和国民事诉讼法》第一百三十条第一款、第一百四十条第二款之规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百四十" nameCN="条目">
+        <KM value="第二款" nameCN="款目" />
+      </TM>
+      <TM value="一百三十" nameCN="条目">
+        <KM value="第一款" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="一、准许原告王德慧撤回起诉。 二、案件受理费250元，原告承担125元。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="一、准许原告王德慧撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="二、案件受理费250元，原告承担125元。" nameCN="诉讼费承担记录">
+        <SSFJE value="250元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员董鸣 二○○四年九月十四日 书记员魏晓飞 注：本案无开庭笔录 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="魏晓飞" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="董鸣" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2004年9月14日" nameCN="裁判时间">
+      <Year value="2004" nameCN="结案年度" />
+      <JANYR value="2004年9月14日" nameCN="结案年月日" />
+      <JANY value="2004-9" nameCN="结案年月" />
+      <Month value="9" nameCN="月" />
+      <Day value="14" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

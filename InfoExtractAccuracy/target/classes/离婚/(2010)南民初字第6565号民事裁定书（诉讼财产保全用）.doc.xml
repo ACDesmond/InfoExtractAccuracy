@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xD;&#xA;民  事  裁  定  书&#xD;&#xA;（2010）南民初字第6565号&#xD;&#xA;原告张秀芝，女，1962年7月20日出生，汉族，天津市坤汇科贸有限公司经理，住天津市南开区宜宾道宜宾东里18－9，身份证号120104620720382。&#xD;&#xA;被告李树青，男，1964年9月29日出生，汉族，天津坤仕清洁服务中心经理，住天津市南开区四纬路松青胡同5号，身份证号120104640929511。&#xD;&#xA;本院在审理原告张秀芝与被告李树青离婚纠纷一案中，原告张秀芝以保护其合法权益及保障法律文书执行为由向本院提出财产保全申请，要求冻结被告李树青名下的财产250000元。原告提供50000元现金及案外人张福松名下坐落于天津市南开区宜宾道宜宾东里18－9的房屋作为担保。&#xD;&#xA;本院认为，为保证财产保全的顺利进行，依照《中华人民共和国民事诉讼法》第九十二条、第九十四条的规定，裁定如下：&#xD;&#xA;    冻结案外人张福松名下坐落于天津市南开区宜宾道宜宾东里18－9的房屋所有权转移手续。&#xD;&#xA;本裁定书送达后立即执行。&#xD;&#xA;如不服本裁定，可以向本院申请复议一次。复议期间不停止裁定的执行。&#xD;&#xA;代理审判员 范金维&#xD;&#xA;二○一○年九月二十五日&#xD;&#xA;书  记  员 张  帅&#xD;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 （2010）南民初字第6565号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2010）南民初字第6565号" nameCN="案号" />
+    <LAND value="2010" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告张秀芝，女，1962年7月20日出生，汉族，天津市坤汇科贸有限公司经理，住天津市南开区宜宾道宜宾东里18－9，身份证号120104620720382。 被告李树青，男，1964年9月29日出生，汉族，天津坤仕清洁服务中心经理，住天津市南开区四纬路松青胡同5号，身份证号120104640929511。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告张秀芝，女，1962年7月20日出生，汉族，天津市坤汇科贸有限公司经理，住天津市南开区宜宾道宜宾东里18－9，身份证号120104620720382。" nameCN="诉讼参与人">
+      <SSCYRMC value="张秀芝" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1962年7月20日" nameCN="出生日期">
+        <Year value="1962" nameCN="年" />
+        <Month value="7" nameCN="月" />
+        <Day value="20" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市南开区宜宾道宜宾东里18－9" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="经理" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告李树青，男，1964年9月29日出生，汉族，天津坤仕清洁服务中心经理，住天津市南开区四纬路松青胡同5号，身份证号120104640929511。" nameCN="诉讼参与人">
+      <SSCYRMC value="李树青" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1964年9月29日" nameCN="出生日期">
+        <Year value="1964" nameCN="年" />
+        <Month value="9" nameCN="月" />
+        <Day value="29" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市南开区四纬路松青胡同5号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="经理" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院在审理原告张秀芝与被告李树青离婚纠纷一案中，原告张秀芝以保护其合法权益及保障法律文书执行为由向本院提出财产保全申请，要求冻结被告李树青名下的财产250000元。原告提供50000元现金及案外人张福松名下坐落于天津市南开区宜宾道宜宾东里18－9的房屋作为担保。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为，为保证财产保全的顺利进行，依照《中华人民共和国民事诉讼法》第九十二条、第九十四条的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="九十二" nameCN="条目" />
+      <TM value="九十四" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="冻结案外人张福松名下坐落于天津市南开区宜宾道宜宾东里18－9的房屋所有权转移手续。 本裁定书送达后立即执行。 如不服本裁定，可以向本院申请复议一次。复议期间不停止裁定的执行。" nameCN="裁判结果">
+    <JAFS value="其他" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="冻结案外人张福松名下坐落于天津市南开区宜宾道宜宾东里18－9的房屋所有权转移手续。" nameCN="具体裁判段" />
+    <JTPJJG value="本裁定书送达后立即执行。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可以向本院申请复议一次。复议期间不停止裁定的执行。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员范金维 二○一○年九月二十五日 书记员张帅 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="范金维" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="张帅" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2010年9月25日" nameCN="裁判时间">
+      <Year value="2010" nameCN="结案年度" />
+      <JANYR value="2010年9月25日" nameCN="结案年月日" />
+      <JANY value="2010-9" nameCN="结案年月" />
+      <Month value="9" nameCN="月" />
+      <Day value="25" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xA;民事裁定书&#xA;&#xA;(2002)南民初字第1734号 &#xA;&#xA;&#xA;    原告人周颖，女，1976年1月5日出生，汉族，[提示：请输入原告人籍贯]人，[提示：请输入原告人文化程度]，[提示：请输入原告人工作单位]，[提示：请输入原告人职务]，[提示：请输入原告人邮编]，住北京市海淀区丁清路16-2-602。&#xA;&#xA;    被告人孙艳峰，男，1976年5月29日出生，汉族，[提示：请输入被告人籍贯]人，[提示：请输入被告人文化程度]，[提示：请输入被告人工作单位]，[提示：请输入被告人职务]，[提示：请输入被告人邮编]，住南开区天津大学新园村6-7-202。&#xA;    周颖与孙艳峰离婚纠纷一案，本院依法进行了审理，现已审理终结。&#xA;&#xA;    本院认为，原告、被告自愿达成协议。依照[提示：请输入判决依据法律条款]的规定，裁定如下：&#xA;    驳回周颖的起诉。&#xA;    [提示：写明诉讼费用的分担]&#xA;    如不服本裁定，可在判决书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院人民法院。&#xA;&#xA;&#xA;院长  郭香子    &#xA;&#xA;&#xA;二○○二年五月二十二日      &#xA;&#xA;书记员  宋红跃    &#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 (2002)南民初字第1734号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2002)南民初字第1734号" nameCN="案号" />
+    <LAND value="2002" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告人周颖，女，1976年1月5日出生，汉族，[提示：请输入原告人籍贯]人，[提示：请输入原告人文化程度]，[提示：请输入原告人工作单位]，[提示：请输入原告人职务]，[提示：请输入原告人邮编]，住北京市海淀区丁清路16-2-602。 被告人孙艳峰，男，1976年5月29日出生，汉族，[提示：请输入被告人籍贯]人，[提示：请输入被告人文化程度]，[提示：请输入被告人工作单位]，[提示：请输入被告人职务]，[提示：请输入被告人邮编]，住南开区天津大学新园村6-7-202。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告人周颖，女，1976年1月5日出生，汉族，[提示：请输入原告人籍贯]人，[提示：请输入原告人文化程度]，[提示：请输入原告人工作单位]，[提示：请输入原告人职务]，[提示：请输入原告人邮编]，住北京市海淀区丁清路16-2-602。" nameCN="诉讼参与人">
+      <SSCYRMC value="周颖" nameCN="诉讼参与人名称" />
+      <SSSF value="原告人" nameCN="诉讼身份" />
+      <SSDW value="原告人" nameCN="诉讼地位" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1976年1月5日" nameCN="出生日期">
+        <Year value="1976" nameCN="年" />
+        <Month value="1" nameCN="月" />
+        <Day value="5" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="北京市海淀区丁清路16-2-602" nameCN="当事人地址" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告人孙艳峰，男，1976年5月29日出生，汉族，[提示：请输入被告人籍贯]人，[提示：请输入被告人文化程度]，[提示：请输入被告人工作单位]，[提示：请输入被告人职务]，[提示：请输入被告人邮编]，住南开区天津大学新园村6-7-202。" nameCN="诉讼参与人">
+      <SSCYRMC value="孙艳峰" nameCN="诉讼参与人名称" />
+      <SSSF value="被告人" nameCN="诉讼身份" />
+      <SSDW value="被告人" nameCN="诉讼地位" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1976年5月29日" nameCN="出生日期">
+        <Year value="1976" nameCN="年" />
+        <Month value="5" nameCN="月" />
+        <Day value="29" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="南开区天津大学新园村6-7-202" nameCN="当事人地址" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="周颖与孙艳峰离婚纠纷一案，本院依法进行了审理，现已审理终结。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为，原告、被告自愿达成协议。依照[提示：请输入判决依据法律条款]的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+  </CPFXGC>
+  <CPJG value="驳回周颖的起诉。 [提示：写明诉讼费用的分担]如不服本裁定，可在判决书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院人民法院。" nameCN="裁判结果">
+    <JAFS value="驳回起诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="驳回周颖的起诉。" nameCN="具体裁判段" />
+    <JTPJJG value="[提示：写明诉讼费用的分担]如不服本裁定，可在判决书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="院长郭香子二○○二年五月二十二日书记员宋红跃 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="宋红跃" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+  </WW>
+</QW>
+

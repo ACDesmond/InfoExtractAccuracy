@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市蓟县人民法院&#xD;&#xA;民  事  裁  定  书&#xD;&#xA;（2010）蓟民初字第3108号&#xD;&#xA;原告赵静，女，1963年3月4日出生，汉族，农民，住蓟县罗庄子镇杨庄村。&#xD;&#xA;被告张春友，男，1961年10月10日出生，汉族，农民，住蓟县罗庄子镇杨庄村。&#xD;&#xA;本院在审理原告赵静与被告张春友离婚纠纷一案中，原告赵静于2010年1月11日向本院提出撤诉申请。&#xD;&#xA;本院认为，原告申请撤诉，是主动处分诉权的民事法律行为，符合民事诉讼法律的相关规定，应予准许。依照《中华人民共和国民事诉讼法》第一百四十条第一款第五项之规定，裁定如下：&#xD;&#xA;准许原告赵静撤回起诉。&#xD;&#xA;诉讼费用100元，由原告负担。&#xD;&#xA;审  判  员     刘 俊 明&#xD;&#xA;二〇一〇年     月    日&#xD;&#xA;书  记  员     张 德 阔&#xD;" nameCN="全文">
+  <WS value="天津市蓟县人民法院 民事裁定书 （2010）蓟民初字第3108号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市蓟县人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2010）蓟民初字第3108号" nameCN="案号" />
+    <LAND value="2010" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告赵静，女，1963年3月4日出生，汉族，农民，住蓟县罗庄子镇杨庄村。 被告张春友，男，1961年10月10日出生，汉族，农民，住蓟县罗庄子镇杨庄村。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告赵静，女，1963年3月4日出生，汉族，农民，住蓟县罗庄子镇杨庄村。" nameCN="诉讼参与人">
+      <SSCYRMC value="赵静" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1963年3月4日" nameCN="出生日期">
+        <Year value="1963" nameCN="年" />
+        <Month value="3" nameCN="月" />
+        <Day value="4" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="蓟县罗庄子镇杨庄村" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告张春友，男，1961年10月10日出生，汉族，农民，住蓟县罗庄子镇杨庄村。" nameCN="诉讼参与人">
+      <SSCYRMC value="张春友" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1961年10月10日" nameCN="出生日期">
+        <Year value="1961" nameCN="年" />
+        <Month value="10" nameCN="月" />
+        <Day value="10" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="蓟县罗庄子镇杨庄村" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院在审理原告赵静与被告张春友离婚纠纷一案中，原告赵静于2010年1月11日向本院提出撤诉申请。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+    <SQCSRQ value="2010年1月11日" nameCN="申请撤诉日期" />
+  </SSJL>
+  <CPFXGC value="本院认为，原告申请撤诉，是主动处分诉权的民事法律行为，符合民事诉讼法律的相关规定，应予准许。依照《中华人民共和国民事诉讼法》第一百四十条第一款第五项之规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百四十" nameCN="条目">
+        <KM value="第一款" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="准许原告赵静撤回起诉。 诉讼费用100元，由原告负担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="准许原告赵静撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="诉讼费用100元，由原告负担。" nameCN="诉讼费承担记录">
+        <SSFJE value="100元" nameCN="诉讼费金额" />
+        <SSFZL value="诉讼费用" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <CSRJH nameCN="撤诉人集合">
+      <CSR value="赵静" nameCN="撤诉人" />
+    </CSRJH>
+    <CSLX value="原告主动撤诉" nameCN="撤诉类型" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员刘俊明 二〇一〇年月日 书记员张德阔 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="刘俊明" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="张德阔" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+  </WW>
+</QW>
+

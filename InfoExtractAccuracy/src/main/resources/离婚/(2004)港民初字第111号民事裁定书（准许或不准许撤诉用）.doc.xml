@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市大港区人民法院&#xD;&#xA;民事裁定书&#xD;&#xA;（2004）港民初字第111号&#xD;&#xA;原告刘会中，男，1962年8月出生，汉族，农民，住天津市大港区港西街沙井子三村。&#xD;&#xA;委托代理人秦嗣文，正阳律师事务所律师。&#xD;&#xA;被告米世昌，男，农民，住天津市大港区沙井子新村小区&#xD;&#xA;原、被告离婚纠纷一案，本院受理后，在审理过程中，原告向本院申请撤回起诉。&#xD;&#xA;本院认为，原告申请撤诉，符合法律有关规定，应予准许。依照《中华人民共和国民事诉讼法》第一百三十一条之规定，裁定如下：&#xD;&#xA;准予原告撤回起诉。&#xD;&#xA;案件受理费63.5元，其它费用300元，由原告负担。&#xD;&#xA;                                 代理审判员   刘新民&#xD;&#xA;二OO四年一月五日&#xD;&#xA;书  记  员   张军慧&#xD;&#xA;速  录  员   王海燕&#xD;" nameCN="全文">
+  <WS value="天津市大港区人民法院 民事裁定书 （2004）港民初字第111号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市大港区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2004）港民初字第111号" nameCN="案号" />
+    <LAND value="2004" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告刘会中，男，1962年8月出生，汉族，农民，住天津市大港区港西街沙井子三村。 委托代理人秦嗣文，正阳律师事务所律师。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告刘会中，男，1962年8月出生，汉族，农民，住天津市大港区港西街沙井子三村。" nameCN="诉讼参与人">
+      <SSCYRMC value="刘会中" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市大港区港西街沙井子三村" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="委托代理人秦嗣文，正阳律师事务所律师。" nameCN="诉讼参与人">
+      <SSCYRMC value="秦嗣文" nameCN="诉讼参与人名称" />
+      <SSSF value="委托代理人" nameCN="诉讼身份" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <GJ value="中国" nameCN="国籍" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="律师" nameCN="职务" />
+      </DWZWFZ>
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="被告米世昌，男，农民，住天津市大港区沙井子新村小区原、被告离婚纠纷一案，本院受理后，在审理过程中，原告向本院申请撤回起诉。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为，原告申请撤诉，符合法律有关规定，应予准许。依照《中华人民共和国民事诉讼法》第一百三十一条之规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百三十一" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="准予原告撤回起诉。 案件受理费63.5元，其它费用300元，由原告负担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="准予原告撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="案件受理费63.5元，其它费用300元，由原告负担。" nameCN="诉讼费承担记录">
+        <SSFJE value="63.5元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员刘新民 二OO四年一月五日 书记员张军慧 速录员王海燕" nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王海燕" nameCN="审判人员姓名" />
+      <SPRYJS value="速录员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="张军慧" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="刘新民" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2004年1月5日" nameCN="裁判时间">
+      <Year value="2004" nameCN="结案年度" />
+      <JANYR value="2004年1月5日" nameCN="结案年月日" />
+      <JANY value="2004-1" nameCN="结案年月" />
+      <Month value="1" nameCN="月" />
+      <Day value="5" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

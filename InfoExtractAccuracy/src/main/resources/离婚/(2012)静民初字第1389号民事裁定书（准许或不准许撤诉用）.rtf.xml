@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="静海县人民法院&#xA;民事裁定书&#xA;&#xA;(2012)静民初字第1389号&#xA;&#xA;因原告蔡兆发与被告郭亚男离婚纠纷一案，本院在审理本案过程中，经本院主持调解，双方当事人和好，原告申请撤回上诉。&#xA;    本院经审查认为：原告的撤诉申请不侵害对方当事人权利，符合法律规定。特裁定如下：&#xA;    一、准许原告蔡兆发撤回起诉。&#xA;    二、案件受理费100元由原告自行承担。&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;审  判  员  李爱军&#xA;二○一二年四月二十三日   &#xA;书  记  员  王新宇 &#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="静海县人民法院 民事裁定书 (2012)静民初字第1389号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="静海县人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2012)静民初字第1389号" nameCN="案号" />
+    <LAND value="2012" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="因原告蔡兆发与被告郭亚男离婚纠纷一案，本院在审理本案过程中，经本院主持调解，双方当事人和好，原告申请撤回上诉。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院经审查认为：原告的撤诉申请不侵害对方当事人权利，符合法律规定。特裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+  </CPFXGC>
+  <CPJG value="一、准许原告蔡兆发撤回起诉。 二、案件受理费100元由原告自行承担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="一、准许原告蔡兆发撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="二、案件受理费100元由原告自行承担。" nameCN="诉讼费承担记录">
+        <SSFJE value="100元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员李爱军 二○一二年四月二十三日 书记员王新宇 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="李爱军" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王新宇" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2012年4月23日" nameCN="裁判时间">
+      <Year value="2012" nameCN="结案年度" />
+      <JANYR value="2012年4月23日" nameCN="结案年月日" />
+      <JANY value="2012-4" nameCN="结案年月" />
+      <Month value="4" nameCN="月" />
+      <Day value="23" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

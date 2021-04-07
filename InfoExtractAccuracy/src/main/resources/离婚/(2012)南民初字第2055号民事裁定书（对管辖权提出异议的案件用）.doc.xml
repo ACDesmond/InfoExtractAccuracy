@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xD;&#xA;民   事   裁   定   书&#xD;&#xA;（2012）南民初字第2055号&#xD;&#xA;原告刘雨，男， 1982年3月23日出生，汉族，户籍地天津市塘沽区广州道漓江里5号楼3门503号，公民身份号码120107198608125113。&#xD;&#xA;被告闫溪鸿，女，汉族，1982年3月23日出生，天津滨海燃气集团有限公司职员，住天津市塘沽区工农村贻景花园9-1-501号，公民身份号码12010619820323004X。&#xD;&#xA;本院受理原告刘雨与被告闫溪鸿离婚纠纷一案中，被告闫溪鸿在提交答辩状期间对管辖权提出异议，以本人自2009年至今始终在天津市塘沽区工作居住为由，认为本案应由天津市滨海新区人民法院塘沽审判区管辖。&#xD;&#xA;经审查，原告户籍地为塘沽区广州道漓江里5号楼3门503号，被告户籍地为天津市南开区园荫道园荫北里17-206号，被告自2009年至今在天津市塘沽区工农村贻景花园9-1-501号居住。本院认为，因本案为离婚案件，故应由被告闫溪鸿经常居住地天津市滨海新区塘沽审判区法院管辖。依据《中华人民共和国民事诉讼法》第三十六条、第二十二条第一款规定裁定如下：&#xD;&#xA;本案移送天津市滨海新区人民法院塘沽审判区审理。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。&#xD;&#xA;代理审判员  朱  博&#xD;&#xA;二○一二年三月二十七日&#xD;&#xA;书  记  员  武彦君&#xD;&#xA;PAGE  &#xD;&#xA;1&#xD;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 （2012）南民初字第2055号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2012）南民初字第2055号" nameCN="案号" />
+    <LAND value="2012" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告刘雨，男，1982年3月23日出生，汉族，户籍地天津市塘沽区广州道漓江里5号楼3门503号，公民身份号码120107198608125113。 被告闫溪鸿，女，汉族，1982年3月23日出生，天津滨海燃气集团有限公司职员，住天津市塘沽区工农村贻景花园9-1-501号，公民身份号码12010619820323004X。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告刘雨，男，1982年3月23日出生，汉族，户籍地天津市塘沽区广州道漓江里5号楼3门503号，公民身份号码120107198608125113。" nameCN="诉讼参与人">
+      <SSCYRMC value="刘雨" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1982年3月23日" nameCN="出生日期">
+        <Year value="1982" nameCN="年" />
+        <Month value="3" nameCN="月" />
+        <Day value="23" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告闫溪鸿，女，汉族，1982年3月23日出生，天津滨海燃气集团有限公司职员，住天津市塘沽区工农村贻景花园9-1-501号，公民身份号码12010619820323004X。" nameCN="诉讼参与人">
+      <SSCYRMC value="闫溪鸿" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1982年3月23日" nameCN="出生日期">
+        <Year value="1982" nameCN="年" />
+        <Month value="3" nameCN="月" />
+        <Day value="23" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市塘沽区工农村贻景花园9-1-501号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="职员" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告刘雨与被告闫溪鸿离婚纠纷一案中，被告闫溪鸿在提交答辩状期间对管辖权提出异议，以本人自2009年至今始终在天津市塘沽区工作居住为由，认为本案应由天津市滨海新区人民法院塘沽审判区管辖。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="经审查，原告户籍地为塘沽区广州道漓江里5号楼3门503号，被告户籍地为天津市南开区园荫道园荫北里17-206号，被告自2009年至今在天津市塘沽区工农村贻景花园9-1-501号居住。本院认为，因本案为离婚案件，故应由被告闫溪鸿经常居住地天津市滨海新区塘沽审判区法院管辖。依据《中华人民共和国民事诉讼法》第三十六条、第二十二条第一款规定裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="二十二" nameCN="条目">
+        <KM value="第一款" nameCN="款目" />
+      </TM>
+      <TM value="三十六" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="本案移送天津市滨海新区人民法院塘沽审判区审理。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="裁判结果">
+    <JAFS value="裁定移送其他法院管辖" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="本案移送天津市滨海新区人民法院塘沽审判区审理。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员朱博 二○一二年三月二十七日 书记员武彦君" nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="朱博" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="武彦君" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2012年3月27日" nameCN="裁判时间">
+      <Year value="2012" nameCN="结案年度" />
+      <JANYR value="2012年3月27日" nameCN="结案年月日" />
+      <JANY value="2012-3" nameCN="结案年月" />
+      <Month value="3" nameCN="月" />
+      <Day value="27" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

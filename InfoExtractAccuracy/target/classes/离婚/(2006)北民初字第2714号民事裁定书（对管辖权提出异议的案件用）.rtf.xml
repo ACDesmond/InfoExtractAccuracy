@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市河北区人民法院&#xA;民事裁定书&#xA;&#xA;(2006)北民初字第2714号 　　　　　&#xA;&#xA;原告赵斌，男，1973年8月10日出生，汉族，天财中亿科技有限公司常务总经理，住天津市和平区大连道2号3门502号。&#xA;被告李娟，女，1978年9月14日出生，汉族，天津市方舟国际旅行社职员，住南开区保山道瑞丽园1－3－101号。&#xA;本院受理原告赵斌与被告李娟离婚纠纷一案后，被告在审理期间对管辖权提出异议，认为婚后一直居住在南开区保山道瑞丽园1号楼3门101室，故要求将该案移送南开区人民法院审理。&#xA;    经审查，原、被告婚后居住地在南开区保山道瑞丽园1号楼3门101室。本院认为，公民提起的民事诉讼，由被告住所地人民法院管辖，但被告未在答辩期内提出管辖异议，故对原告要求将案件移送南开区人民法院审理的申请，依法不予支持。而本院在审理该案过程中，发现该案确不属于本院管辖，应移送南开区人民法院审理，依照《中华人民共和国民事诉讼法》第三十六条的规定，裁定如下：&#xA;    本案移送南开区人民法院处理。&#xA;    如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，上诉于天津市第一中级人民法院人民法院。&#xA;&#xA;&#xA; &#xA;审  判  员  孙鹤年&#xA;&#xA;二○○六年八月     日   &#xA;   &#xA;书  记  员  訾文华&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市河北区人民法院 民事裁定书 (2006)北民初字第2714号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市河北区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2006)北民初字第2714号" nameCN="案号" />
+    <LAND value="2006" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告赵斌，男，1973年8月10日出生，汉族，天财中亿科技有限公司常务总经理，住天津市和平区大连道2号3门502号。 被告李娟，女，1978年9月14日出生，汉族，天津市方舟国际旅行社职员，住南开区保山道瑞丽园1－3－101号。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告赵斌，男，1973年8月10日出生，汉族，天财中亿科技有限公司常务总经理，住天津市和平区大连道2号3门502号。" nameCN="诉讼参与人">
+      <SSCYRMC value="赵斌" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1973年8月10日" nameCN="出生日期">
+        <Year value="1973" nameCN="年" />
+        <Month value="8" nameCN="月" />
+        <Day value="10" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市和平区大连道2号3门502号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="总经理" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告李娟，女，1978年9月14日出生，汉族，天津市方舟国际旅行社职员，住南开区保山道瑞丽园1－3－101号。" nameCN="诉讼参与人">
+      <SSCYRMC value="李娟" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1978年9月14日" nameCN="出生日期">
+        <Year value="1978" nameCN="年" />
+        <Month value="9" nameCN="月" />
+        <Day value="14" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="南开区保山道瑞丽园1－3－101号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="职员" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告赵斌与被告李娟离婚纠纷一案后，被告在审理期间对管辖权提出异议，认为婚后一直居住在南开区保山道瑞丽园1号楼3门101室，故要求将该案移送南开区人民法院审理。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="经审查，原、被告婚后居住地在南开区保山道瑞丽园1号楼3门101室。本院认为，公民提起的民事诉讼，由被告住所地人民法院管辖，但被告未在答辩期内提出管辖异议，故对原告要求将案件移送南开区人民法院审理的申请，依法不予支持。而本院在审理该案过程中，发现该案确不属于本院管辖，应移送南开区人民法院审理，依照《中华人民共和国民事诉讼法》第三十六条的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="三十六" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="本案移送南开区人民法院处理。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，上诉于天津市第一中级人民法院人民法院。" nameCN="裁判结果">
+    <JAFS value="裁定移送其他法院管辖" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="本案移送南开区人民法院处理。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，上诉于天津市第一中级人民法院人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员孙鹤年 二○○六年八月日 书记员訾文华 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="訾文华" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="孙鹤年" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+  </WW>
+</QW>
+

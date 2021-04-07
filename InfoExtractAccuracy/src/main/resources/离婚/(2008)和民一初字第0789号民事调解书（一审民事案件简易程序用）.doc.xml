@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市和平区人民法院&#xD;&#xA;民事裁定书&#xD;&#xA;(2008)和民一初字第789号&#xD;&#xA;原告何金钟，男，1960年8月2日出生，汉族，无职业，住址天津市南开区广开四纬路8号。&#xD;&#xA;委托代理人张毅娴，天津同华律师事务所律师。&#xD;&#xA;被告苏学英，女，1960年9月22日出生，汉族，天津市火柴厂下岗工人，住址天津市河西区围堤道四新里35-301室。&#xD;&#xA;委托代理人刘悦，天津津一律师事务所律师。&#xD;&#xA;委托代理人吕翠荣，天津津一律师事务所律师。&#xD;&#xA;本院受理原告何金钟与被告苏学英离婚纠纷一案后，经查被告住所地与经常居住地不一致，被告经常居住地为河西区围堤道四新里35-301室且原告的住所地也在该地址。故根据法律规定应将本案移送到天津市河西区人民法院审理。&#xD;&#xA;经审查，本院认为，被告住所地与经常居住地不一致，按法律规定应由经常居住地人民法院管辖，被告经常居住地在河西区，且原告住所地也在河西区，因此本案应由河西区人民法院管辖。依照《中华人民共和国民事诉讼法》第二十二条、第三十六条的规定，裁定如下：&#xD;&#xA;本案移送天津市河西区人民法院审理。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按照对方当事人的人数提出副本，上诉于天津市第一中级人民法院。&#xD;&#xA;代理审判员 白月明&#xD;&#xA;二ΟΟ八 年 七 月     日&#xD;&#xA;                                                  书  记  员  李 研&#xD;&#xA;PAGE  &#xD;&#xA;2&#xD;" nameCN="全文">
+  <WS value="天津市和平区人民法院 民事裁定书 (2008)和民一初字第789号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市和平区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2008)和民一初字第789号" nameCN="案号" />
+    <LAND value="2008" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告何金钟，男，1960年8月2日出生，汉族，无职业，住址天津市南开区广开四纬路8号。 委托代理人张毅娴，天津同华律师事务所律师。 被告苏学英，女，1960年9月22日出生，汉族，天津市火柴厂下岗工人，住址天津市河西区围堤道四新里35-301室。 委托代理人刘悦，天津津一律师事务所律师。 委托代理人吕翠荣，天津津一律师事务所律师。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告何金钟，男，1960年8月2日出生，汉族，无职业，住址天津市南开区广开四纬路8号。" nameCN="诉讼参与人">
+      <SSCYRMC value="何金钟" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1960年8月2日" nameCN="出生日期">
+        <Year value="1960" nameCN="年" />
+        <Month value="8" nameCN="月" />
+        <Day value="2" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="址天津市南开区广开四纬路8号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="无职业" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="委托代理人张毅娴，天津同华律师事务所律师。" nameCN="诉讼参与人">
+      <SSCYRMC value="张毅娴" nameCN="诉讼参与人名称" />
+      <SSSF value="委托代理人" nameCN="诉讼身份" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <GJ value="中国" nameCN="国籍" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="律师" nameCN="职务" />
+      </DWZWFZ>
+    </SSCYR>
+    <SSCYR value="被告苏学英，女，1960年9月22日出生，汉族，天津市火柴厂下岗工人，住址天津市河西区围堤道四新里35-301室。" nameCN="诉讼参与人">
+      <SSCYRMC value="苏学英" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1960年9月22日" nameCN="出生日期">
+        <Year value="1960" nameCN="年" />
+        <Month value="9" nameCN="月" />
+        <Day value="22" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="址天津市河西区围堤道四新里35-301室" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="工人" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="委托代理人刘悦，天津津一律师事务所律师。" nameCN="诉讼参与人">
+      <SSCYRMC value="刘悦" nameCN="诉讼参与人名称" />
+      <SSSF value="委托代理人" nameCN="诉讼身份" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <GJ value="中国" nameCN="国籍" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="律师" nameCN="职务" />
+      </DWZWFZ>
+    </SSCYR>
+    <SSCYR value="委托代理人吕翠荣，天津津一律师事务所律师。" nameCN="诉讼参与人">
+      <SSCYRMC value="吕翠荣" nameCN="诉讼参与人名称" />
+      <SSSF value="委托代理人" nameCN="诉讼身份" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <GJ value="中国" nameCN="国籍" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="律师" nameCN="职务" />
+      </DWZWFZ>
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告何金钟与被告苏学英离婚纠纷一案后，经查被告住所地与经常居住地不一致，被告经常居住地为河西区围堤道四新里35-301室且原告的住所地也在该地址。故根据法律规定应将本案移送到天津市河西区人民法院审理。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="经审查，本院认为，被告住所地与经常居住地不一致，按法律规定应由经常居住地人民法院管辖，被告经常居住地在河西区，且原告住所地也在河西区，因此本案应由河西区人民法院管辖。依照《中华人民共和国民事诉讼法》第二十二条、第三十六条的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="二十二" nameCN="条目" />
+      <TM value="三十六" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="本案移送天津市河西区人民法院审理。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按照对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="裁判结果">
+    <JAFS value="裁定移送其他法院管辖" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="本案移送天津市河西区人民法院审理。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按照对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按照对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员白月明 二ΟΟ八年七月日 书记员李研" nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="白月明" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="李研" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+  </WW>
+</QW>
+

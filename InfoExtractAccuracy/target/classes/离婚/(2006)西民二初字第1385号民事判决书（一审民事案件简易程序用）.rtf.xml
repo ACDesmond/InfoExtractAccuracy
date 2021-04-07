@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市河西区人民法院&#xA;民事判决书&#xA;&#xA;(2006)西民二初字第1385号 &#xA;             &#xA;&#xA;    原告高曼，女，出生，汉族，地址在。&#xA;    被告郭仁起，男，出生，汉族，，地址在。&#xA;    高曼与郭仁起离婚纠纷一案，本院2006年10月18日受理后，依法由审判员王爽独任审判，于开庭进行了审理。原告高曼，被告郭仁起，到庭参加诉讼。本案现以审理终结。&#xA;    原告高曼诉称：&#xA;    被告郭仁起辩称：&#xA;    经审理查明：&#xA;    本院认为：。依照的规定，判决如下：&#xA;    &#xA;    &#xA;    如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市高级人民法院，同时向该院预交上诉案件受理费XX元。开户行及帐号：（写明二审法院开户行及帐号）。&#xA;&#xA;&#xA;审  判  长      &#xA;审  判  员  王爽&#xA;&#xA;&#xA;&#xA;&#xA;二○○六年十一月十三日   &#xA;   &#xA;书  记  员  &#xA;   &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市河西区人民法院 民事判决书 (2006)西民二初字第1385号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市河西区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事判决书" nameCN="文书名称" />
+    <AH value="(2006)西民二初字第1385号" nameCN="案号" />
+    <LAND value="2006" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="判决书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告高曼，女，出生，汉族，地址在。 被告郭仁起，男，出生，汉族，，地址在。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告高曼，女，出生，汉族，地址在。" nameCN="诉讼参与人">
+      <SSCYRMC value="高曼" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <GJ value="中国" nameCN="国籍" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告郭仁起，男，出生，汉族，，地址在。" nameCN="诉讼参与人">
+      <SSCYRMC value="郭仁起" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <GJ value="中国" nameCN="国籍" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="高曼与郭仁起离婚纠纷一案，本院2006年10月18日受理后，依法由审判员王爽独任审判，于开庭进行了审理。原告高曼，被告郭仁起，到庭参加诉讼。本案现以审理终结。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="是" nameCN="开庭审理" />
+    <KTSLXX value="公开审理" nameCN="开庭审理信息" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <LARQ value="2006年10月18日" nameCN="立案日期" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+    <SLRQ value="2006年10月18日" nameCN="受理日期" />
+    <CTDSRXX nameCN="出庭当事人信息">
+      <CTRXM value="郭仁起" nameCN="出庭人姓名">
+        <SSDW value="被告" nameCN="诉讼地位" />
+      </CTRXM>
+      <CTRXM value="高曼" nameCN="出庭人姓名">
+        <SSDW value="原告" nameCN="诉讼地位" />
+      </CTRXM>
+    </CTDSRXX>
+  </SSJL>
+  <AJJBQK value="原告高曼诉称： 被告郭仁起辩称： 经审理查明：" nameCN="案件基本情况">
+    <YGSCD value="原告高曼诉称： " nameCN="原告诉称段" />
+    <SGXQ value="未提及" nameCN="事故详情">
+      <SGSJ value="未提及" nameCN="事故时间" />
+      <SGDD value="未提及" nameCN="事故地点" />
+    </SGXQ>
+    <JDCSYR value="郭仁起" nameCN="机动车所有人" />
+    <BGBCD value="被告郭仁起辩称： " nameCN="被告辩称段" />
+    <CMSSD value="经审理查明：" nameCN="查明事实段" />
+  </AJJBQK>
+  <CPFXGC value="本院认为：。依照的规定，判决如下：" nameCN="裁判分析过程">
+    <JAFSLX value="判决" nameCN="结案方式类型" />
+  </CPFXGC>
+  <CPJG value="如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市高级人民法院，同时向该院预交上诉案件受理费XX元。开户行及帐号：（写明二审法院开户行及帐号）。" nameCN="裁判结果">
+    <JAFS value="判决" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市高级人民法院，同时向该院预交上诉案件受理费XX元。开户行及帐号：（写明二审法院开户行及帐号）。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市高级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十五日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判长 审判员王爽 二○○六年十一月十三日 书记员 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王爽" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2006年11月13日" nameCN="裁判时间">
+      <Year value="2006" nameCN="结案年度" />
+      <JANYR value="2006年11月13日" nameCN="结案年月日" />
+      <JANY value="2006-11" nameCN="结案年月" />
+      <Month value="11" nameCN="月" />
+      <Day value="13" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

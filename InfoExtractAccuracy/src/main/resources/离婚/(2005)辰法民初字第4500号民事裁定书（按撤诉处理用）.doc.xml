@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市北辰区人民法院&#xD;&#xA;民事裁定书&#xD;&#xA;（2005）辰民初字第4500号&#xD;&#xA;原告季少砚，女，1979年2月16日出生，汉族，住本市北辰区东升里16号楼1门401室。&#xD;&#xA;被告邵延宏，男，1977年9月20日出生，汉族，住本市河北区小王庄天泰路润泰园1号楼6门603室。&#xD;&#xA;本院受理原告季少砚与被告邵延宏离婚纠纷一案后，被告邵延宏在提交答辩状期间对管辖权提出异议，认为原、被告的户口及长期居住地均在河北区，此案应由河北区人民法院管辖。&#xD;&#xA;经审查，本院认为，被告所述属实，此案应由天津市河北区人民法院管辖。依照《中华人民共和国民事诉讼法》第三十八条的规定，裁定如下： &#xD;&#xA;被告邵延宏对管辖权提出的异议成立，本案移送天津市河北区人民法&#xD;&#xA;院处理。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。&#xD;&#xA;审  判  员      张永来&#xD;&#xA;二00五年十月二十一日&#xD;&#xA;书  记  员      郭晓伟&#xD;" nameCN="全文">
+  <WS value="天津市北辰区人民法院 民事裁定书 （2005）辰民初字第4500号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市北辰区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2005）辰民初字第4500号" nameCN="案号" />
+    <LAND value="2005" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告季少砚，女，1979年2月16日出生，汉族，住本市北辰区东升里16号楼1门401室。 被告邵延宏，男，1977年9月20日出生，汉族，住本市河北区小王庄天泰路润泰园1号楼6门603室。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告季少砚，女，1979年2月16日出生，汉族，住本市北辰区东升里16号楼1门401室。" nameCN="诉讼参与人">
+      <SSCYRMC value="季少砚" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1979年2月16日" nameCN="出生日期">
+        <Year value="1979" nameCN="年" />
+        <Month value="2" nameCN="月" />
+        <Day value="16" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="本市北辰区东升里16号楼1门401室" nameCN="当事人地址" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告邵延宏，男，1977年9月20日出生，汉族，住本市河北区小王庄天泰路润泰园1号楼6门603室。" nameCN="诉讼参与人">
+      <SSCYRMC value="邵延宏" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1977年9月20日" nameCN="出生日期">
+        <Year value="1977" nameCN="年" />
+        <Month value="9" nameCN="月" />
+        <Day value="20" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="本市河北区小王庄天泰路润泰园1号楼6门603室" nameCN="当事人地址" />
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告季少砚与被告邵延宏离婚纠纷一案后，被告邵延宏在提交答辩状期间对管辖权提出异议，认为原、被告的户口及长期居住地均在河北区，此案应由河北区人民法院管辖。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="经审查，本院认为，被告所述属实，此案应由天津市河北区人民法院管辖。依照《中华人民共和国民事诉讼法》第三十八条的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="三十八" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="被告邵延宏对管辖权提出的异议成立，本案移送天津市河北区人民法院处理。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="裁判结果">
+    <JAFS value="裁定移送其他法院管辖" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="被告邵延宏对管辖权提出的异议成立，本案移送天津市河北区人民法院处理。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员张永来 二00五年十月二十一日 书记员郭晓伟 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="张永来" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="郭晓伟" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2005年10月21日" nameCN="裁判时间">
+      <Year value="2005" nameCN="结案年度" />
+      <JANYR value="2005年10月21日" nameCN="结案年月日" />
+      <JANY value="2005-10" nameCN="结案年月" />
+      <Month value="10" nameCN="月" />
+      <Day value="21" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xD;&#xA;民   事   裁   定   书&#xD;&#xA;（2012）南民初字第0036号&#xD;&#xA;本院2012年对原告李彤芳与被告安立生离婚纠纷一案作出的（2012）南民初字第0036号民事判决书中，文字有误，应予补正。依据《中华人民共和国民事诉讼法》第一百五十四条第七项的规定，现裁定如下：&#xD;&#xA;将判决书主文部分中第五项中“被告一次性给付原告补偿费169634万元”变更为“被告一次性给付原告补偿费169634元”&#xD;&#xA;审  判  员    任继松&#xD;&#xA;二○一五年八月二十四日&#xD;&#xA;书  记  员    武彦君&#xD;&#xA;PAGE  &#xD;&#xA;1&#xD;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 （2012）南民初字第0036号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2012）南民初字第0036号" nameCN="案号" />
+    <LAND value="2012" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="本院2012年对原告李彤芳与被告安立生离婚纠纷一案作出的（2012）南民初字第0036号民事判决书中，文字有误，应予补正。依据《中华人民共和国民事诉讼法》第一百五十四条第七项的规定，现裁定如下：" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPJG value="将判决书主文部分中第五项中“被告一次性给付原告补偿费169634万元”变更为“被告一次性给付原告补偿费169634元”" nameCN="裁判结果">
+    <JAFS value="判决" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="将判决书主文部分中第五项中“被告一次性给付原告补偿费169634万元”变更为“被告一次性给付原告补偿费169634元”" nameCN="具体裁判段">
+      <PJJE nameCN="判决金额">
+        <JE value="1.69634E9元" nameCN="金额" />
+        <JELX value="补偿费" nameCN="金额类型" />
+      </PJJE>
+      <PJJE nameCN="判决金额">
+        <JE value="169634元" nameCN="金额" />
+        <JELX value="补偿费" nameCN="金额类型" />
+      </PJJE>
+    </JTPJJG>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员任继松 二○一五年八月二十四日 书记员武彦君" nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="任继松" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="武彦君" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2015年8月24日" nameCN="裁判时间">
+      <Year value="2015" nameCN="结案年度" />
+      <JANYR value="2015年8月24日" nameCN="结案年月日" />
+      <JANY value="2015-8" nameCN="结案年月" />
+      <Month value="8" nameCN="月" />
+      <Day value="24" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xA;民事裁定书&#xA;&#xA;(2008)南民初字第2956号&#xA;&#xA;&#xA;原告梁宏文，女，1972年9月11日出生，汉族，天津隆辉国际货运代理公司经理，住天津市南开区临潼路广灵里2-6-602号。身份证号：1201061972009112525&#xA;被告张春亭，男，1969年2月23日出生，汉族，天津金山电线电缆有限公司职工，住同上。身份证号：120104196902233838&#xA;本院在审理原告梁宏文与被告张春亭离婚纠纷一案中，原告于2008年6月12日向本院提出撤诉申请。&#xA;本院认为，原告自行处分诉讼权利并无不当。依照《中华人民共和国民事诉讼法》第一百三十一条一款的规定，裁定如下：&#xA;    准许原告梁宏文撤回起诉。&#xA;案件受理费700元，减半收取,由原告负担。&#xA;&#xA;&#xA;代理审判员  刘建伟&#xA;&#xA;二○○八年六月十二日&#xA;&#xA;                             书  记  员  马鸿莹&#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 (2008)南民初字第2956号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2008)南民初字第2956号" nameCN="案号" />
+    <LAND value="2008" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="原告梁宏文，女，1972年9月11日出生，汉族，天津隆辉国际货运代理公司经理，住天津市南开区临潼路广灵里2-6-602号。身份证号：1201061972009112525被告张春亭，男，1969年2月23日出生，汉族，天津金山电线电缆有限公司职工，住同上。身份证号：120104196902233838本院在审理原告梁宏文与被告张春亭离婚纠纷一案中，原告于2008年6月12日向本院提出撤诉申请。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+    <SQCSRQ value="2008年6月12日" nameCN="申请撤诉日期" />
+  </SSJL>
+  <CPFXGC value="本院认为，原告自行处分诉讼权利并无不当。依照《中华人民共和国民事诉讼法》第一百三十一条一款的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百三十一" nameCN="条目">
+        <KM value="一款" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="准许原告梁宏文撤回起诉。 案件受理费700元，减半收取,由原告负担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="准许原告梁宏文撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="案件受理费700元，减半收取,由原告负担。" nameCN="诉讼费承担记录">
+        <SSFJE value="700元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员刘建伟 二○○八年六月十二日 书记员马鸿莹 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="刘建伟" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="马鸿莹" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2008年6月12日" nameCN="裁判时间">
+      <Year value="2008" nameCN="结案年度" />
+      <JANYR value="2008年6月12日" nameCN="结案年月日" />
+      <JANY value="2008-6" nameCN="结案年月" />
+      <Month value="6" nameCN="月" />
+      <Day value="12" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

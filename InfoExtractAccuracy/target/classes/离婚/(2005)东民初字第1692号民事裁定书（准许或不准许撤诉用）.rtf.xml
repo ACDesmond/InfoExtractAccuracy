@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市河东区人民法院&#xA;民事裁定书&#xA;&#xA;(2005)东民初字第1692号&#xA;原告李颖&#xA;被告符浩杰&#xA;本院在审理李颖与符浩杰离婚纠纷一案中，原告于向本院提出撤诉申请。&#xA;本院认为。依照的规定，裁定如下：&#xA; 准原告李颖撤诉&#xA;&#xA;&#xA;   &#xA;审判员    周金光 &#xA; &#xA;二○○五年六月八日      &#xA;书记员     董鸣 &#xA;&#xA;" nameCN="全文">
+  <WS value="天津市河东区人民法院 民事裁定书 (2005)东民初字第1692号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市河东区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2005)东民初字第1692号" nameCN="案号" />
+    <LAND value="2005" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="原告李颖被告符浩杰本院在审理李颖与符浩杰离婚纠纷一案中，原告于向本院提出撤诉申请。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为。依照的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+  </CPFXGC>
+  <WW value="准原告李颖撤诉审判员周金光 二○○五年六月八日 书记员董鸣 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="董鸣" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="周金光" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2005年6月8日" nameCN="裁判时间">
+      <Year value="2005" nameCN="结案年度" />
+      <JANYR value="2005年6月8日" nameCN="结案年月日" />
+      <JANY value="2005-6" nameCN="结案年月" />
+      <Month value="6" nameCN="月" />
+      <Day value="8" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

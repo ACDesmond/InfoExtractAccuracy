@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市河东区人民法院&#xA;民事调解书&#xA;&#xA;(2006)东民初字第1978号 &#xA;                     &#xA;&#xA;    原告李天真 &#xA;    被告杜新平&#xA;    本院于立案受理了原告诉被告离婚纠纷一案。依法由审判员王欣适用简易程序进行了审理。&#xA;    本案在审理过程中，经人民法院主持调解，双方当事人自愿达成如下协议：&#xA;    调解和好&#xA;    双方当事人一致同意本调解协议自双方在调解协议上签名或捺印后即具有法律效力。&#xA;    上述协议，不违反法律规定，本院予以确认。&#xA;审判员  王欣    &#xA;&#xA;二○○六年七月二十七日      &#xA;&#xA;书记员  张永祺    &#xA;" nameCN="全文">
+  <WS value="天津市河东区人民法院 民事调解书 (2006)东民初字第1978号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市河东区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事调解书" nameCN="文书名称" />
+    <AH value="(2006)东民初字第1978号" nameCN="案号" />
+    <LAND value="2006" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="调解书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="原告李天真被告杜新平本院于立案受理了原告诉被告离婚纠纷一案。依法由审判员王欣适用简易程序进行了审理。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="简易程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <WW value="原告李天真被告杜新平本院于立案受理了原告诉被告离婚纠纷一案。依法由审判员王欣适用简易程序进行了审理。 本案在审理过程中，经人民法院主持调解，双方当事人自愿达成如下协议： 调解和好 双方当事人一致同意本调解协议自双方在调解协议上签名或捺印后即具有法律效力。 上述协议，不违反法律规定，本院予以确认。 审判员王欣 二○○六年七月二十七日 书记员张永祺 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="张永祺" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王欣适用简易程序进行了审理。" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王欣" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2006年7月27日" nameCN="裁判时间">
+      <Year value="2006" nameCN="结案年度" />
+      <JANYR value="2006年7月27日" nameCN="结案年月日" />
+      <JANY value="2006-7" nameCN="结案年月" />
+      <Month value="7" nameCN="月" />
+      <Day value="27" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

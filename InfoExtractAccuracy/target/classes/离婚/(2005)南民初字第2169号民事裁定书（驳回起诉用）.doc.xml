@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市津南区人民法院&#xD;&#xA;民　　事    裁   定   书&#xD;&#xA;（2005）南民初字第2169号&#xD;&#xA;原告韩世立，男，1965年6月8日生，汉族，农民，住天津市津南区八里台镇大韩庄村1区4排58号。&#xD;&#xA;被告刘凤芹，女，1966年12月24日生，汉族，农民，住同上。&#xD;&#xA;原告韩世立与被告刘凤芹离婚纠纷一案，本院依法进行了审理，现已审理终结。&#xD;&#xA;本院认为，本案被告于2005年6月17日进行的人工流产手术，原告于2005年8月24日起诉与被告离婚，在被告中止妊娠到原告起诉，未到六个月，故原告不能起诉离婚。依照《中华人民共和国婚姻法》第三十四条之规定，裁定如下：&#xD;&#xA;驳回原告韩世立的起诉。&#xD;&#xA;    案件受理费50元，其他费用200元，由原告韩世立承担。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第二中级人民法院。&#xD;&#xA;代理审判员     翟洪凤&#xD;&#xA;二00五年 九 月二十六日&#xD;&#xA;书  记  员     王伟红&#xD;" nameCN="全文">
+  <WS value="天津市津南区人民法院 民事裁定书 （2005）南民初字第2169号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市津南区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2005）南民初字第2169号" nameCN="案号" />
+    <LAND value="2005" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告韩世立，男，1965年6月8日生，汉族，农民，住天津市津南区八里台镇大韩庄村1区4排58号。 被告刘凤芹，女，1966年12月24日生，汉族，农民，住同上。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告韩世立，男，1965年6月8日生，汉族，农民，住天津市津南区八里台镇大韩庄村1区4排58号。" nameCN="诉讼参与人">
+      <SSCYRMC value="韩世立" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1965年6月8日" nameCN="出生日期">
+        <Year value="1965" nameCN="年" />
+        <Month value="6" nameCN="月" />
+        <Day value="8" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市津南区八里台镇大韩庄村1区4排58号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告刘凤芹，女，1966年12月24日生，汉族，农民，住同上。" nameCN="诉讼参与人">
+      <SSCYRMC value="刘凤芹" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1966年12月24日" nameCN="出生日期">
+        <Year value="1966" nameCN="年" />
+        <Month value="12" nameCN="月" />
+        <Day value="24" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="同上" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="农民" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="原告韩世立与被告刘凤芹离婚纠纷一案，本院依法进行了审理，现已审理终结。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为，本案被告于2005年6月17日进行的人工流产手术，原告于2005年8月24日起诉与被告离婚，在被告中止妊娠到原告起诉，未到六个月，故原告不能起诉离婚。依照《中华人民共和国婚姻法》第三十四条之规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国婚姻法" nameCN="法律法条名称">
+      <TM value="三十四" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="驳回原告韩世立的起诉。 案件受理费50元，其他费用200元，由原告韩世立承担。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第二中级人民法院。" nameCN="裁判结果">
+    <JAFS value="驳回起诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="驳回原告韩世立的起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="案件受理费50元，其他费用200元，由原告韩世立承担。" nameCN="诉讼费承担记录">
+        <SSFJE value="50元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+        <SSFJE value="200元" nameCN="诉讼费金额" />
+        <SSFZL value="其他费用" nameCN="诉讼费种类" />
+        <SSFCDR value="韩世立" nameCN="承担人">
+          <SSFCDJE value="50元" nameCN="承担金额" />
+          <SSFCDFS value="个人独立承担该金额" nameCN="承担方式" />
+          <SSFCDDW value="原告" nameCN="承担人地位" />
+        </SSFCDR>
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第二中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="代理审判员翟洪凤 二00五年九月二十六日 书记员王伟红 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="翟洪凤" nameCN="审判人员姓名" />
+      <SPRYJS value="代理审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="王伟红" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2005年9月26日" nameCN="裁判时间">
+      <Year value="2005" nameCN="结案年度" />
+      <JANYR value="2005年9月26日" nameCN="结案年月日" />
+      <JANY value="2005-9" nameCN="结案年月" />
+      <Month value="9" nameCN="月" />
+      <Day value="26" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

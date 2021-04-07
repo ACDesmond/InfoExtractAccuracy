@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="静海县人民法院&#xD;&#xA;民事裁定书&#xD;&#xA; (2013)静民初字第1062号&#xD;&#xA;原告柴桂兰诉被告王金荣离婚纠纷一案，本院在审理本案过程中，原告柴桂兰向本院提出撤诉申请。&#xD;&#xA; 本院经审查认为：依照《中华人民共和国民事诉讼法》第一百五十四条的规定，裁定如下：&#xD;&#xA;    一、准许原告柴桂兰撤回起诉。&#xD;&#xA;    二、案件受理费100元由原告柴桂兰自行承担。&#xD;&#xA;助理审判员  刘  岩&#xD;&#xA;二〇一三年三月十一日&#xD;&#xA;书  记  员  赵德占&#xD;" nameCN="全文">
+  <WS value="静海县人民法院 民事裁定书 (2013)静民初字第1062号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="静海县人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2013)静民初字第1062号" nameCN="案号" />
+    <LAND value="2013" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSJL value="原告柴桂兰诉被告王金荣离婚纠纷一案，本院在审理本案过程中，原告柴桂兰向本院提出撤诉申请。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院经审查认为：依照《中华人民共和国民事诉讼法》第一百五十四条的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="一百五十四" nameCN="条目" />
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="一、准许原告柴桂兰撤回起诉。 二、案件受理费100元由原告柴桂兰自行承担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="一、准许原告柴桂兰撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="二、案件受理费100元由原告柴桂兰自行承担。" nameCN="诉讼费承担记录">
+        <SSFJE value="100元" nameCN="诉讼费金额" />
+        <SSFZL value="受理费" nameCN="诉讼费种类" />
+      </SSFCDJL>
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="助理审判员刘岩 二〇一三年三月十一日 书记员赵德占 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="赵德占" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="刘岩" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2013年3月11日" nameCN="裁判时间">
+      <Year value="2013" nameCN="结案年度" />
+      <JANYR value="2013年3月11日" nameCN="结案年月日" />
+      <JANY value="2013-3" nameCN="结案年月" />
+      <Month value="3" nameCN="月" />
+      <Day value="11" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+

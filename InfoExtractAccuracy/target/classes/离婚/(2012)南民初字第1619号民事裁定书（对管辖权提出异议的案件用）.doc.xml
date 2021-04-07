@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市南开区人民法院&#xD;&#xA;民事裁定书&#xD;&#xA;（2012）南民初字第1619号&#xD;&#xA;原告范英平，女，1965年8月21日出生，汉族，无职业，住天津市河北区王串场一号路正兴里平房61-16号，公民身份号码34122619650821524X。&#xD;&#xA;被告姜强，男，1961年9月7日出生，汉族，天津重光五金制品厂退休职工，住同原告，公民身份号码120105196109073038。&#xD;&#xA;本院受理原告范英平与被告姜强离婚纠纷一案后，被告姜强在提交答辩状期间对管辖权提出异议，认为被告自2006年5月在天津市河北区王串场一号路正兴里平房61-16号房屋居住至今，本案应由天津市河北区人民法院管辖。&#xD;&#xA;经审查，被告姜强自2006年始至今居住于天津市河北区王串场一号路正兴里平房61-16号房屋，至原告起诉时被告亦在天津市河北区居住。本院认为，原、被告纠纷系离婚纠纷，被告经常居住地系天津市河北区，本案应由天津市河北区人民法院管辖。根据《中华人民共和国民事诉讼法》第二十二条第一款、第三十八条之规定，裁定如下：&#xD;&#xA;   被告姜强对管辖权提出的异议成立，本案移送天津市河北区人民法院处理。&#xD;&#xA;如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。&#xD;&#xA;审 判 员   董巧云&#xD;&#xA;二○一二年三月 日&#xD;&#xA;书 记 员   史蕾蕾&#xD;&#xA;PAGE  &#xD;&#xA;1&#xD;" nameCN="全文">
+  <WS value="天津市南开区人民法院 民事裁定书 （2012）南民初字第1619号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市南开区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="（2012）南民初字第1619号" nameCN="案号" />
+    <LAND value="2012" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告范英平，女，1965年8月21日出生，汉族，无职业，住天津市河北区王串场一号路正兴里平房61-16号，公民身份号码34122619650821524X。 被告姜强，男，1961年9月7日出生，汉族，天津重光五金制品厂退休职工，住同原告，公民身份号码120105196109073038。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告范英平，女，1965年8月21日出生，汉族，无职业，住天津市河北区王串场一号路正兴里平房61-16号，公民身份号码34122619650821524X。" nameCN="诉讼参与人">
+      <SSCYRMC value="范英平" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1965年8月21日" nameCN="出生日期">
+        <Year value="1965" nameCN="年" />
+        <Month value="8" nameCN="月" />
+        <Day value="21" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="天津市河北区王串场一号路正兴里平房61-16号" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="无职业" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告姜强，男，1961年9月7日出生，汉族，天津重光五金制品厂退休职工，住同原告，公民身份号码120105196109073038。" nameCN="诉讼参与人">
+      <SSCYRMC value="姜强" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <CSRQ value="1961年9月7日" nameCN="出生日期">
+        <Year value="1961" nameCN="年" />
+        <Month value="9" nameCN="月" />
+        <Day value="7" nameCN="日" />
+      </CSRQ>
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="同原告" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="退休职工" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告范英平与被告姜强离婚纠纷一案后，被告姜强在提交答辩状期间对管辖权提出异议，认为被告自2006年5月在天津市河北区王串场一号路正兴里平房61-16号房屋居住至今，本案应由天津市河北区人民法院管辖。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="经审查，被告姜强自2006年始至今居住于天津市河北区王串场一号路正兴里平房61-16号房屋，至原告起诉时被告亦在天津市河北区居住。本院认为，原、被告纠纷系离婚纠纷，被告经常居住地系天津市河北区，本案应由天津市河北区人民法院管辖。根据《中华人民共和国民事诉讼法》第二十二条第一款、第三十八条之规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中华人民共和国民事诉讼法" nameCN="法律法条名称">
+      <TM value="三十八" nameCN="条目" />
+      <TM value="二十二" nameCN="条目">
+        <KM value="第一款" nameCN="款目" />
+      </TM>
+    </FLFTMC>
+  </CPFXGC>
+  <CPJG value="被告姜强对管辖权提出的异议成立，本案移送天津市河北区人民法院处理。 如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="裁判结果">
+    <JAFS value="裁定移送其他法院管辖" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="被告姜强对管辖权提出的异议成立，本案移送天津市河北区人民法院处理。" nameCN="具体裁判段" />
+    <JTPJJG value="如不服本裁定，可在裁定书送达之日起十日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于天津市第一中级人民法院。" nameCN="具体裁判段" />
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <KSSZ value="天津市第一中级人民法院" nameCN="可上诉至" />
+    <SSTJCL value="上诉状，并按对方当事人的人数提出副本" nameCN="上诉提交材料" />
+    <SSQX value="十日" nameCN="上诉期限" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判员董巧云 二○一二年三月日 书记员史蕾蕾" nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="董巧云" nameCN="审判人员姓名" />
+      <SPRYJS value="审判员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="史蕾蕾" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+  </WW>
+</QW>
+

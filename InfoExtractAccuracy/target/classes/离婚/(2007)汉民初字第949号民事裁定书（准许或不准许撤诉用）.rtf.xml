@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QW value="天津市汉沽区人民法院&#xA;民  事  裁  定  书&#xA;&#xA;(2007)汉民初字第949号&#xA;原告邵建冬，女，33岁，汉族，无业，住汉沽区六安里28号楼2单元3楼。&#xA;被告贾长春，男，34岁，汉族，汉沽商厦工人，住汉沽区滨海花园2号楼3门201室。&#xA;本院受理原告邵建冬与被告贾长春离婚纠纷一案中，原告邵建冬向本院提出撤诉申请。&#xA;    本院认为：原告撤诉申请真实、自愿，符合有关法律规定。依照《中人民共和国民事诉讼法》131条一款的规定，裁定如下：&#xA;    准许原告邵建冬撤回起诉。&#xA;诉讼费用由原告承担。&#xA; &#xA;审  判  长  魏惜和    &#xA;&#xA;二○○七年九月四日   &#xA;   &#xA;书  记  员  徐  青&#xA;&#xA;&#xA;&#xA;&#xA;" nameCN="全文">
+  <WS value="天津市汉沽区人民法院 民事裁定书 (2007)汉民初字第949号" nameCN="文首">
+    <WSZZDW value="法院" nameCN="文书制作单位" />
+    <JBFY value="天津市汉沽区人民法院" nameCN="经办法院">
+      <FYJB value="基层" nameCN="法院级别" />
+      <XZQH_P value="天津" nameCN="行政区划(省)" />
+    </JBFY>
+    <WSMC value="民事裁定书" nameCN="文书名称" />
+    <AH value="(2007)汉民初字第949号" nameCN="案号" />
+    <LAND value="2007" nameCN="立案年度" />
+    <AJXZ value="民事案件" nameCN="案件性质" />
+    <WSZL value="裁定书" nameCN="文书种类" />
+    <SPCX value="一审案件" nameCN="审判程序" />
+    <AJLX value="民事一审案件" nameCN="案件类型" />
+  </WS>
+  <SSCYRQJ value="原告邵建冬，女，33岁，汉族，无业，住汉沽区六安里28号楼2单元3楼。 被告贾长春，男，34岁，汉族，汉沽商厦工人，住汉沽区滨海花园2号楼3门201室。" nameCN="诉讼参与人全集">
+    <SSCYR value="原告邵建冬，女，33岁，汉族，无业，住汉沽区六安里28号楼2单元3楼。" nameCN="诉讼参与人">
+      <SSCYRMC value="邵建冬" nameCN="诉讼参与人名称" />
+      <SSSF value="原告" nameCN="诉讼身份" />
+      <SSDW value="原告" nameCN="诉讼地位" />
+      <DSRLB value="原告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="女" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="汉沽区六安里28号楼2单元3楼" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="无业" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYR value="被告贾长春，男，34岁，汉族，汉沽商厦工人，住汉沽区滨海花园2号楼3门201室。" nameCN="诉讼参与人">
+      <SSCYRMC value="贾长春" nameCN="诉讼参与人名称" />
+      <SSSF value="被告" nameCN="诉讼身份" />
+      <SSDW value="被告" nameCN="诉讼地位" />
+      <DSRLB value="被告" nameCN="当事人类别" />
+      <DSRLX value="自然人" nameCN="当事人类型" />
+      <XB value="男" nameCN="性别" />
+      <MZ value="汉族" nameCN="民族" />
+      <GJ value="中国" nameCN="国籍" />
+      <DSRDZ value="汉沽区滨海花园2号楼3门201室" nameCN="当事人地址" />
+      <DWZWFZ nameCN="单位职务分组">
+        <ZW value="工人" nameCN="职务" />
+      </DWZWFZ>
+      <DSRSFZH value="否" nameCN="当事人是否再婚" />
+    </SSCYR>
+    <SSCYRQJ value="错误" nameCN="保险公司是否作为被告" />
+  </SSCYRQJ>
+  <SSJL value="本院受理原告邵建冬与被告贾长春离婚纠纷一案中，原告邵建冬向本院提出撤诉申请。" nameCN="诉讼记录">
+    <AY value="离婚纠纷" nameCN="案由" />
+    <KTSL value="否" nameCN="开庭审理" />
+    <WZAY value="离婚纠纷" nameCN="完整案由" />
+    <AYDM value="9015" nameCN="案由代码" />
+    <YSAJSYCX value="普通程序" nameCN="一审案件适用程序" />
+    <JYZPT value="否" nameCN="简易转普通" />
+    <SPZZ value="独任庭" nameCN="审判组织" />
+    <YSAJLY value="新收" nameCN="一审案件来源" />
+  </SSJL>
+  <CPFXGC value="本院认为：原告撤诉申请真实、自愿，符合有关法律规定。依照《中人民共和国民事诉讼法》131条一款的规定，裁定如下：" nameCN="裁判分析过程">
+    <JAFSLX value="裁定" nameCN="结案方式类型" />
+    <FLFTMC value="中人民共和国民事诉讼法" nameCN="法律法条名称" />
+  </CPFXGC>
+  <CPJG value="准许原告邵建冬撤回起诉。 诉讼费用由原告承担。" nameCN="裁判结果">
+    <JAFS value="准予撤诉" nameCN="结案方式" />
+    <PCSFSXZQ value="正确" nameCN="同时起诉侵权人与保险公司的赔偿顺序" />
+    <JTPJJG value="准许原告邵建冬撤回起诉。" nameCN="具体裁判段" />
+    <SSFCD nameCN="诉讼费承担">
+      <SSFCDJL value="诉讼费用由原告承担。" nameCN="诉讼费承担记录" />
+    </SSFCD>
+    <SFFHCS value="否" nameCN="是否发回重审" />
+    <CSRJH nameCN="撤诉人集合">
+      <CSR value="邵建冬" nameCN="撤诉人" />
+    </CSRJH>
+    <CSLX value="原告主动撤诉" nameCN="撤诉类型" />
+    <TCGXQYY value="否" nameCN="是否提出管辖权异议" />
+  </CPJG>
+  <WW value="审判长魏惜和 二○○七年九月四日 书记员徐青 " nameCN="文尾">
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="徐青" nameCN="审判人员姓名" />
+      <SPRYJS value="书记员" nameCN="审判人员角色" />
+    </SPZZCY>
+    <SPZZCY nameCN="审判组织成员">
+      <SPRYXM value="魏惜和" nameCN="审判人员姓名" />
+      <SPRYJS value="审判长" nameCN="审判人员角色" />
+    </SPZZCY>
+    <CPSJ value="2007年9月4日" nameCN="裁判时间">
+      <Year value="2007" nameCN="结案年度" />
+      <JANYR value="2007年9月4日" nameCN="结案年月日" />
+      <JANY value="2007-9" nameCN="结案年月" />
+      <Month value="9" nameCN="月" />
+      <Day value="4" nameCN="日" />
+    </CPSJ>
+  </WW>
+</QW>
+
